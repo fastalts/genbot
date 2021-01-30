@@ -233,5 +233,5 @@ if(command === "help") {
 }
 })
 
-bot.login(NzczMTQ3ODE1NzY1MjEzMTk0.X6FAAw.JGYacfpB9w_NNs_f97Tdq6IW3TA);
+bot.login(TOKEN);
 
